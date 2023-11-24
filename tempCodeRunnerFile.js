@@ -1,0 +1,1 @@
+console.table([studentId,studentName,city])
